@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PatchMethod" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-10-21T12:40:06" hostname="Nityas-MacBook-Pro.local" time="0.943">
+  <properties/>
+  <testcase name="updateUserDetails" classname="PatchMethod" time="0.483"/>
+  <testcase name="updateUserDetails_2" classname="PatchMethod" time="0.46"/>
+  <system-out><![CDATA[200
+{"first_name":"nitya","updatedAt":"2021-10-21T12:40:06.806Z"}
+200
+{"email":"abc@ok.com","updatedAt":"2021-10-21T12:40:07.266Z"}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

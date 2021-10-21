@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PostMethod" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-10-21T12:40:07" hostname="Nityas-MacBook-Pro.local" time="2.822">
+  <properties/>
+  <testcase name="createUser" classname="PostMethod" time="0.479"/>
+  <testcase name="loginSuccessful" classname="PostMethod" time="0.454"/>
+  <testcase name="loginUnSuccessful_1" classname="PostMethod" time="0.489"/>
+  <testcase name="loginUnSuccessful_2" classname="PostMethod" time="0.481"/>
+  <testcase name="registerUnsuccessful" classname="PostMethod" time="0.457"/>
+  <testcase name="registerUser" classname="PostMethod" time="0.46"/>
+  <system-out><![CDATA[201
+{"first_name":"nitya","last_name":"priya","email":"nitya@gmail.com","id":"785","createdAt":"2021-10-21T12:40:07.742Z"}
+200
+{"token":"QpwL5tke4Pnpja7X4"}
+400
+{"error":"user not found"}
+400
+{"error":"Missing password"}
+400
+{"error":"Missing password"}
+200
+{"id":4,"token":"QpwL5tke4Pnpja7X4"}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

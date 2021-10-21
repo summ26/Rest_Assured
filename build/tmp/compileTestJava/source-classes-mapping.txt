@@ -1,0 +1,10 @@
+DeleteMethod.java
+ DeleteMethod
+PutMethod.java
+ PutMethod
+PatchMethod.java
+ PatchMethod
+PostMethod.java
+ PostMethod
+GetMethod.java
+ GetMethod

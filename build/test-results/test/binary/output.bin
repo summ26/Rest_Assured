@@ -1,0 +1,27 @@
+
+
+“{"data":{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+{}
+å{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+	200
+	>{"first_name":"nitya","updatedAt":"2021-10-21T12:40:06.806Z"}
+	
+200
+	
+>{"email":"abc@ok.com","updatedAt":"2021-10-21T12:40:07.266Z"}
+201
+w{"first_name":"nitya","last_name":"priya","email":"nitya@gmail.com","id":"785","createdAt":"2021-10-21T12:40:07.742Z"}
+200
+{"token":"QpwL5tke4Pnpja7X4"}
+400
+{"error":"user not found"}
+400
+{"error":"Missing password"}
+400
+{"error":"Missing password"}
+200
+%{"id":4,"token":"QpwL5tke4Pnpja7X4"}
+200
+h{"first_name":"Nitya","last_name":"Priya","email":"nitya@gmail","updatedAt":"2021-10-21T12:40:10.543Z"}
+200
+o{"first_name":"Sunitha","last_name":"Gupta","email":"gupthasuny@gmail","updatedAt":"2021-10-21T12:40:11.019Z"}

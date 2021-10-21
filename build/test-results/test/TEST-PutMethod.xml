@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PutMethod" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-10-21T12:40:10" hostname="Nityas-MacBook-Pro.local" time="0.935">
+  <properties/>
+  <testcase name="updateUser" classname="PutMethod" time="0.453"/>
+  <testcase name="updateUser_2" classname="PutMethod" time="0.482"/>
+  <system-out><![CDATA[200
+{"first_name":"Nitya","last_name":"Priya","email":"nitya@gmail","updatedAt":"2021-10-21T12:40:10.543Z"}
+200
+{"first_name":"Sunitha","last_name":"Gupta","email":"gupthasuny@gmail","updatedAt":"2021-10-21T12:40:11.019Z"}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
